@@ -18,4 +18,4 @@ line 465:
 Change to >
 "$allow_anonymous = apply_filters( 'rest_allow_anonymous_comments', true, $request );"
 
-documentation for sending comments and query strings allowed <a href="https://developer.wordpress.org/rest-api/reference/comments/">Link</a>
+documentation for sending comments <a href="https://developer.wordpress.org/rest-api/reference/comments/">Link</a>

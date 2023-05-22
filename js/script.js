@@ -1,10 +1,6 @@
 // Example data to send, post id must match existing post
 const comment = JSON.stringify({
-	post: 29,
-	/*
-	 *** Can add more fields than post and content, but must have those two ***
-	 */
-	content: "Test comment",
+	/* Content to send*/
 });
 
 async function postComment() {
